@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Bawal Ma-LATE!</title>
+    </head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel = "stylesheet" href = "styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&display=swap" rel="stylesheet">
+            <body class="bg">
+            <header>
+                <h1 align = "center">BAWAL MA-LATE!</h1>
+                        <ul class="menu">
+                            <li><a href = "Game Information.html" class = "menu-item">HOME</a></li>   
+                            <li><a href = "Index2.html" class = "menu-item">GAME INFORMATION</a></li>
+                            <li><a href = "About.html" class = "menu-item">ABOUT</a></li>
+                            <li><a href = "contact2.html" class = "menu-item">CONTACT</a></li>
+                            <!-- <li><a href = "TestFeedbackpage.php" class = "menu-item">FEEDBACK</a></li> -->
+                        </ul>
+                </h1>
+            </header>
+               
+            <h2>
+                <div class="postercontainer">
+                    <div class="placeholder">
+                      <div class="poster">
+                        <img src="game poster.jpg" alt="Game Poster">
+                      </div>
+                    </div>
+            </h2>
+            <h2>
+                <div class= "scroll">
+                    <div class= "intro">
+                    <p align = "center">Gameplay Trailer</p>
+                    </div>
+                </div>
+            </h2> 
+            <div class = "container-fluid">
+                <p align ="center"><img src ="Unity.png" alt="Unity" Width = "10%" ><img src ="ESRB.png" alt="ESRB" height = "10%"></p>
+                </ul>
+            </div>
+    </body>
+</html>
