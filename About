@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <title>BERSERC</title>
+    </head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel ="stylesheet" type = "text/css" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&display=swap" rel="stylesheet">
+    <body>
+        <header>
+        <h1 align = "center">ABOUT BERSERC</h1>
+                <ul class = "menu">
+                    <li><a href = "Game Information.html" class = "menu-item">HOME</a></li>   
+                    <li><a href = "Index2.html" class = "menu-item">GAME INFORMATION</a></li>
+                    <li><a href = "About.html" class = "menu-item">ABOUT</a></li>
+                    <li><a href = "contact2.html" class = "menu-item">CONTACT</a></li>
+                    <!-- <li><a href = "TestFeedbackpage.php" class = "menu-item">FEEDBACK</a></li> -->
+                </ul>
+        </header>
+        <h2>
+            <div class="card-container">
+                <div class="card">
+                    <div class = "front">
+                    </div>
+                    <div class="back">
+                      <h3 class="name">Mar</h3>
+                      <img src="berserclogo.png" alt="Member 1" class ="card-image" id ="Mar">
+                      <p class="card-description">Project Manager</p>
+                    </div>
+                </div>
+                <div class="card">
+                  <div class ="front">
+                  </div>
+                  <div class="back">
+                    <h3 class="name">Rabu</h3>
+                    <img src="berserclogo.png" alt="Member 1"class = "card-image" id ="Rabu">
+                    <p class="card-description">Developer</p>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="front">
+                  </div>
+                  <div class="back">
+                    <h3 class="name">Bryan</h3>
+                    <img src="berserclogo.png" alt="Member 1"class = "card-image" id ="Bryan">
+                    <p class="card-description">Animator</p>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class = "front">
+                  </div>
+                  <div class="back">
+                    <h3 class="name">Rain</h3>
+                    <img src="berserclogo.png" alt="Member 1"class = "card-image" id ="Rain">
+                    <p class="card-description">Modeler</p>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class ="front">
+                </div>
+                <div class="back">
+                  <h3 class="name">Roi</h3>
+                  <img src="berserclogo.png" alt="Member 1"class = "card-image" id ="Roi">
+                  <p class="card-description">Graphic Artist</p>
+                </div>
+                </div>
+                </div>
+        </h2>
+                           
+                            
+        <!-- <div class="textcontainer">
+            <div class="boxcard">
+                <h3 class="title">Container 1</h3>
+                <p class="description">Description for container 1.</p>
+            </div>
+            <div class="boxcard">
+                <h3 class="title">Container 2</h3>
+                <p class="description">Description for container 2.</p>
+            </div>
+            <div class="boxcard">
+                <h3 class="title">Container 3</h3>
+                <p class="description">Description for container 3.</p>
+            </div>
+         </div> -->
+    </body>
+</html>
