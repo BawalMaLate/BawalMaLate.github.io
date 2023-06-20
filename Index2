@@ -1,0 +1,88 @@
+<html>
+    <head>
+        <title>Game</title>
+    </head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel ="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&display=swap" rel="stylesheet">
+    <body>
+        <header>
+            <h1 align = "center">GAME INFORMATION</h1>
+                <ul class = "menu">
+                    <li><a href = "Game Information.html" class = "menu-item">HOME</a></li>   
+                    <li><a href = "Index2.html" class = "menu-item">GAME INFORMATION</a></li>
+                    <li><a href = "About.html" class = "menu-item">ABOUT</a></li>
+                    <li><a href = "contact2.html" class = "menu-item">CONTACT</a></li>
+                </ul>
+        </header>
+        
+        <h2>    
+            <div class="container">
+                <div class="placeholder">
+                    <div class="content">
+                        <h3 class="title">Bawal Ma-Late!</h3>
+                        <p class="description">
+                            Bawal Ma-LATE! is a single PC multiplayer game with 3D graphics available on the 
+                            Windows platform, with themes of urban commuting and transportation to showcase some of the 
+                            commuters' inconveniences in the form of a digital board game where there are five characters to 
+                            choose from, played with a maximum of four players as they compete with each other in order to 
+                            reach as many destination areas as possible.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </h2>
+        <div class = "Background story of the Meeples"> 
+            <h3 id="charactersAbout">About the Meeples </h3>      
+                <div class = "container">
+                    <div class = "nurse">
+                        <h3>Rosa/Nurse</h3>
+                            <p class="padding10"> Rosa is an experienced nurse who commutes daily from her residence in Calamba, Laguna 
+                                to her workplace in Quezon City. She has been making this commute for the past 27 years.
+                                 However, today is different as there is an urgent emergency, and assistance is sought to 
+                                 ensure she reaches her destination on time.   
+                            </p>
+                    </div>
+                    <div class = "student">
+                        <h3>Meesha/Student</h3>
+                            <p class="padding10"> Meesha is a college student who lives in Cainta, Rizal, and commutes daily to school. 
+                                Due to the ongoing maintenance of the LRT, Meesha has to wake up early and take a crowded bus to reach her school on time.
+                                This particular day is important for her as she has an upcoming exam. Assistance is sought to ensure that Meesha reaches his destination successfully.
+                            </p>
+                    </div>
+                    <div class = "office worker">
+                        <div class ="image-overlay"></div>
+                        <img src="elmo dar.jpg">
+                        <h3>Ray/Office worker</h3>
+                            <p class="padding10"> Ray is a fresh graduate and office worker residing in Meycauayan, Bulacan. 
+                                Every day, he travels from his home to his office in Ortigas by taking two trains, namely LRT1 and MRT3.
+                                Unfortunately, he often experiences overcrowded trains during his morning commute. Today, Ray has an important meeting,
+                                and he seeks assistance to ensure he reaches his destination on time.
+                            </p>
+                            </div>
+                    <div class = "construction worker"> 
+                        <h3>Jose/Construction worker</h3>
+                            <p class="padding10"> Jose is a devoted single parent living in San Jose Del Monte, Bulacan, with three children. 
+                                He works tirelessly to secure a better future for his family. Every day, he endures an exhausting commute of nearly 10 hours,
+                                 leaving him with little time for rest when he returns home. Unfortunately, one day he oversleeps and needs assistance to ensure he reaches his destination on time.
+                            </p>
+                    </div>
+                    <div class = "parent"> 
+                        <h3>Mary/Parent</h3>
+                            <p class="padding10"> A dedicated housewife, managing the household chores and takes care of her family.
+                                 She has her own daily routine, which involved commuting and vising the local market. But one day there was a transportation strike,
+                                  and public jeepneys very few, the only option is for her to walk or ride a bicycle. Will you be able to help Mary reach her destination ?
+
+                            </p>
+                    </div>
+                </div>
+        </div>
+        <div class = "container-fluid">
+        <p align ="center"><img src ="Unity.png" alt="Unity" Width = "10%" ><img src ="ESRB.png" alt="ESRB" height = "10%"></p>
+        </div>
+        </div>
+    </div>
+    </body>
+</html>
