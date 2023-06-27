@@ -452,3 +452,38 @@ footer {
     font-size: 24px;
   }
 }
+form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+label, input, textarea {
+  display: block;
+  margin-bottom: 10px;
+}
+
+textarea {
+  height: 100px;
+}
+
+button {
+  padding: 10px 20px;
+}
+
+.body {
+  width: 100%;
+}
+
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+
+ @media (min-width: 992px) {
+  .container {
+    max-width: 992px;
+  }
+} 
