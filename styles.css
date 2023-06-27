@@ -455,10 +455,10 @@ footer {
 form {
   width: 300px;
   margin: 0 auto;
+  display: block;
 }
 
 label, input, textarea {
-  display: block;
   margin-bottom: 10px;
 }
 
