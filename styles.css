@@ -455,11 +455,12 @@ footer {
 form {
   width: 300px;
   margin: 0 auto;
-  display: block;
+
 }
 
 label, input, textarea {
-  margin-bottom: 10px;
+     display: block;
+   margin-bottom: 10px;
 }
 
 textarea {
@@ -474,7 +475,7 @@ button {
   width: 100%;
 }
 
-
+/* 
 @media (min-width: 768px) {
   .container {
     max-width: 768px;
@@ -486,4 +487,4 @@ button {
   .container {
     max-width: 992px;
   }
-} 
+}  */
