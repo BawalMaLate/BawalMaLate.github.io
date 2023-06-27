@@ -471,17 +471,17 @@ button {
   width: 100%;
 }
 
-/* Tablet styles */
+/* /* Tablet styles 
 @media (min-width: 768px) {
   .container {
     max-width: 768px;
   }
 }
 
-/* Desktop styles */
+ Desktop styles 
 @media (min-width: 992px) {
   .container {
     max-width: 992px;
   }
 }
-
+ */
