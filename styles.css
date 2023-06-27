@@ -475,6 +475,33 @@ button {
   width: 100%;
 }
 
+.video-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.video-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Add your desired background color or image */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.video-container:hover::before {
+  opacity: 1;
+}
+
+.video-container video {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 /* 
 @media (min-width: 768px) {
   .container {
