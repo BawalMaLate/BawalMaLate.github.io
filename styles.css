@@ -475,7 +475,7 @@ button {
   width: 100%;
 }
 
-/* 
+
 @media (min-width: 768px) {
   .container {
     max-width: 768px;
@@ -487,4 +487,4 @@ button {
   .container {
     max-width: 992px;
   }
-}  */
+}  
