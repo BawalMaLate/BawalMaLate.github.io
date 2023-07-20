@@ -342,7 +342,7 @@ ul.menu li a:hover::before {
 .boxcard {
   position: relative;
   width: 300px;
-  height: 200px;
+  height: 150px;
   background-color: #f2f2f2;
   border: 2px solid #ddd;
   border-radius: 8px;
@@ -370,7 +370,7 @@ ul.menu li a:hover::before {
 .student{
   position: relative;
   width: 15%;
-  height: 300px;
+  height: 150px;
   background-color: #ffffff;
   border: 2px solid #ddd;
   border-radius: 8px;
@@ -387,7 +387,7 @@ ul.menu li a:hover::before {
 .nurse{
   position: relative;
   width: 15%;
-  height: 100px;
+  height: 200px;
   background-color: #ffffff;
   border: 2px solid #ddd;
   border-radius: 8px;
@@ -411,8 +411,8 @@ ul.menu li a:hover::before {
 
 .construction {
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 150px;
   background-color: #ffffff;
   border: 2px solid #ddd;
   border-radius: 8px;
@@ -424,8 +424,8 @@ ul.menu li a:hover::before {
 
 .parent{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 150px;
   background-color: #f2f2f2;
   border: 2px solid #ddd;
   border-radius: 8px;
