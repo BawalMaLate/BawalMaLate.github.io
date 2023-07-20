@@ -246,7 +246,7 @@ ul.menu li a:hover::before {
 
 .postercontainer .placeholder{
   position: relative;
-  width: 350px;
+  width: 250px;
   height: 100%;
   border: 2px solid #ffffff;
   border-radius: 8px;
@@ -278,7 +278,7 @@ ul.menu li a:hover::before {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 400px;
+  height: 300px;
 }
 
 .placeholder {
@@ -380,8 +380,8 @@ ul.menu li a:hover::before {
   overflow: hidden;
 }
 .student:hover, .nurse:hover, .office:hover, .construction:hover, .parent:hover{
-  width: 50%;
-  height: 300px;
+  width: 35%;
+  height: 200px;
 }
 
 .nurse{
