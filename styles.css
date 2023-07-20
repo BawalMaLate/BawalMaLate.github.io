@@ -321,7 +321,7 @@ ul.menu li a:hover::before {
 }
 
 .placeholder:hover .poster {
-  transform: translateZ(50px);
+  transform: translateZ(100px);
 }
 
 .bg{
